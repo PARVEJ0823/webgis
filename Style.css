@@ -1,0 +1,11 @@
+.button {
+    background-color: #eb1531;
+    border: none;
+    color: rgb(32, 8, 8);
+}
+
+
+#map {
+    height: 100vh; /* Full viewport height */
+    width: 100vw;  /* Full viewport width */
+}
